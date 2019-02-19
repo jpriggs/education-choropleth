@@ -2,6 +2,7 @@
   "name": "education-choropleth",
   "version": "0.1.0",
   "private": true,
+  "author": "Jason Rigdon",
   "dependencies": {
     "d3": "^5.9.1",
     "react": "^16.8.2",
